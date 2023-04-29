@@ -1,4 +1,4 @@
-package chiba.dev.AccountQuery.api;
+package chiba.dev.AccountQuery.api.controllers;
 
 import chiba.dev.AccountQuery.queries.FindAllQuery;
 import chiba.dev.AccountQuery.queries.FindByAccountHolderQuery;
