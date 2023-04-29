@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Account-Command/Account-Command.iml" filepath="$PROJECT_DIR$/Account-Command/Account-Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Account-Common/Account-Common.iml" filepath="$PROJECT_DIR$/Account-Common/Account-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Account-Query/Account-Query.iml" filepath="$PROJECT_DIR$/Account-Query/Account-Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CQRS-CORE/CQRS-CORE.iml" filepath="$PROJECT_DIR$/CQRS-CORE/CQRS-CORE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CQRS-Event-Sourcing.iml" filepath="$PROJECT_DIR$/.idea/CQRS-Event-Sourcing.iml" />
+    </modules>
+  </component>
+</project>
